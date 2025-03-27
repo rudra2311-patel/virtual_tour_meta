@@ -1,0 +1,2 @@
+C:/Users/Patel rudra/Desktop/kaustubh_meta/android/app/.cxx/Debug/i4u5t2f2/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Patel rudra/Desktop/kaustubh_meta/android/app/.cxx/Debug/i4u5t2f2/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/Patel rudra/Desktop/kaustubh_meta/android/app/.cxx/RelWithDebInfo/2z4x2o1c/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Patel rudra/Desktop/kaustubh_meta/android/app/.cxx/RelWithDebInfo/2z4x2o1c/arm64-v8a/CMakeFiles/rebuild_cache.dir
